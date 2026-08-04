@@ -5,9 +5,9 @@ const siteUrl = (
 ).replace(/\/$/, "");
 
 export const SITE = {
-  name: "Quiet Pages",
+  name: "Baikal Insight",
   description:
-    "An independent magazine on writing, design, and the slow web. Published occasionally, read closely.",
+    "\"Хэн, юу, хэзээ, хаана?\" гэх асуултаас хальж, \"Хэрхэн, яаж, яагаад?\"-ын хариултыг сэтгүүлч Д.Байгалмаатай хамт эрэлхийлье.",
   url: siteUrl,
   locale: "en-US",
   language: "en",
